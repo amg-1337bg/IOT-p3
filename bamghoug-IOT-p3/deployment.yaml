@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: iot-p3
-        image: bamghoug/iot-p3:v1
+        image: bamghoug/iot-p3:v2
         ports:
         - containerPort: 80
 
